@@ -1,6 +1,6 @@
-## Analista de Infraestrutura Cloud
+## Carreira Thiago Accessor
 
-15 anos de expericiencia em Tecnologia em TI.  iniciado atividades como Tecnico de Impressora em 2006. Em 2011 Migrado para area de Suporte Field Service. A partir de 2018 migrado para área de Infraestrutura On Promise e Datacenter. Após a aprovação nas certificações AZ900 E AZ104 em 2021 iniciei as minhas atividades em Infraestrutura Cloud
+15 anos de experiência em Tecnologia em TI.  iniciado atividades como Tecnico de Impressora em 2006. Em 2011 Migrado para àrea de Suporte Field Service. A partir de 2018 migrado para área de Infraestrutura On Promise e Datacenter. Após a aprovação nas certificações AZ900 E AZ104 em 2021 iniciei as minhas atividades em Infraestrutura Cloud. 2002 Recebi a oportunidade de Coordenar um Equipe de Infraestrutura em TI e Cloud, onde adquirir muito conhecimento em gestão.
 
 
 ## Certificações:
