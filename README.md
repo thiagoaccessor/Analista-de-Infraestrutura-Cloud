@@ -2,7 +2,7 @@
 
 Com 15 anos de experiência em Tecnologia em TI, eu comecei minha jornada como Técnico de Impressora em 2006. Ao longo dos anos, evoluí minha carreira para áreas de suporte técnico e infraestrutura. Em 2011, migrei para a área de Suporte Field Service e, em 2018, para Infraestrutura On-Premise e Datacenter. Em 2021, após aprovação nas certificações AZ900 e AZ104, tive a oportunidade de me aventurar no mundo da Infraestrutura Cloud.
 
-Mas, sem dúvida, o ponto de virada em minha carreira foi em 2002, quando recebi a oportunidade de coordenar uma equipe de Infraestrutura em TI e Cloud. Essa experiência me permitiu adquirir conhecimentos valiosos em gestão e liderança, além de ampliar minha visão e compreensão sobre o mercado de tecnologia.
+Mas, sem dúvida, o ponto de virada em minha carreira foi em 2022, quando recebi a oportunidade de coordenar uma equipe de Infraestrutura em TI e Cloud. Essa experiência me permitiu adquirir conhecimentos valiosos em gestão e liderança, além de ampliar minha visão e compreensão sobre o mercado de tecnologia.
 
 Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e contribuir para o sucesso da empresa. Tenho orgulho do meu percurso e estou ansioso para continuar evoluindo na carreira
 
