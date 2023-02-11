@@ -9,12 +9,12 @@ Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas ha
 
 ## Certificações:
 
-Windows Server 2012 - MCSA
+- Windows Server 2012 - MCSA
 70-410
 70-411
 70-412
 
-MIcrosoft Azure
+- MIcrosoft Azure
 
 AZ900
 AZ104
